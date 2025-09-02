@@ -1,32 +1,83 @@
-![Blank 1 Panel Landscape Comic Strip](https://github.com/antoniamugisa/antoniamugisa/assets/82291162/80867b71-f5d9-4957-a10f-2b65c2c72f93)
-# About Me
-- I'm currently in my final year of Computer Science at Dalhousie University!
-- I'm interested in Full-Stack Development, Cloud DevOps and AI Developments!
-- Feel free to reach out to me through LinkedIn! : https://www.linkedin.com/in/antoniamugisa/
+# Hey, I'm Antonia! 
+I'm a soon-to-be Computer Science graduate from Dalhousie University with experience as a Software Engineer Intern and Full-Stack Developer. Skilled in Java, Python, C/C++, Kotlin, JavaScript, TypeScript, SQL, with projects in React, Node.js, MongoDB and SprintBoot.
 
-# Current Tech Stack
-## Languages
-<img src="https://github.com/antoniamugisa/antoniamugisa/assets/82291162/87e31e5b-783e-4516-a779-4133bfe59f62" width="48">
-<img src="https://github.com/antoniamugisa/antoniamugisa/assets/82291162/773ac1a0-30ff-4d85-bb8b-470a3d936481" width="48">
-<img src="https://github.com/antoniamugisa/antoniamugisa/assets/82291162/f1068da9-0883-4ef5-91a4-0fa8d23606e8" width="48">
-<img src="https://github.com/antoniamugisa/antoniamugisa/assets/82291162/cb6106b7-7bff-4b36-9cc6-0ab63abf955c" width="48">
-<img src="https://github.com/antoniamugisa/antoniamugisa/assets/82291162/c99243ce-f8d2-4a93-a5ef-5ae94b9ea4b5" width="48">
-<img src="https://github.com/antoniamugisa/antoniamugisa/assets/82291162/7a7429ce-ec0a-454b-9dc9-767b5212215e" width="48">
-<img src="https://github.com/antoniamugisa/antoniamugisa/assets/82291162/d31e8b99-6773-4c53-a2d5-d9af56cd427e" width="48">
-<img src="https://github.com/antoniamugisa/antoniamugisa/assets/82291162/172303f3-f991-478d-ba8f-a242a941f54c" width="48">
-<img src="https://github.com/antoniamugisa/antoniamugisa/assets/82291162/61d49091-07f4-42fa-8776-baff2eb7afe8" width="48">
-<img src="https://github.com/antoniamugisa/antoniamugisa/assets/82291162/14d1c747-bf34-4667-b213-e7dc54f36a09" width="48">
+I’m passionate about creating scalable systems and open to roles in Software Development, Backend Engineering, AI/ML, and Cloud Solutions — in Halifax, across Canada, or remote.
 
-## Tools
-<img src="https://github.com/antoniamugisa/antoniamugisa/assets/82291162/541d729b-9e3c-43ea-b6ed-6bf5c3063dfd" width="48">
-<img src="https://github.com/antoniamugisa/antoniamugisa/assets/82291162/7e915a56-4f75-4733-84ea-b8d7bef621af" width="48">
-<img src="https://github.com/antoniamugisa/antoniamugisa/assets/82291162/443a8370-2e6a-4456-946a-868a06be7741" width="48">
-<img src="https://github.com/antoniamugisa/antoniamugisa/assets/82291162/2e3ec9da-6dfd-4ec3-be6a-fe31a2ece903" width="48">
-<img src="https://github.com/antoniamugisa/antoniamugisa/assets/82291162/c98d6eed-71a3-4a07-8b15-ba84ff389e42" width="48">
-<img src="https://github.com/antoniamugisa/antoniamugisa/assets/82291162/082503c0-6a51-4563-875b-c438609ad1b8" width="48">
-<img src="https://github.com/antoniamugisa/antoniamugisa/assets/82291162/84adf774-8877-4834-b5a5-c9090838646b" width="48">
-<img src="https://github.com/antoniamugisa/antoniamugisa/assets/82291162/0947fe11-61d0-4119-80e6-db1fbbce9001" width="48">
-<img src="https://github.com/antoniamugisa/antoniamugisa/assets/82291162/a5023ac0-63c7-4f9e-9f98-7cda751a8166" width="48">
-<img src="https://github.com/antoniamugisa/antoniamugisa/assets/82291162/e5b5db45-d269-4372-816d-46affda1bbd5" width="48">
+<br>
+
+# Artificial Intelligence
+
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white">
+<img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black">
+<img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+
+<br>
+
+# Cloud
+
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
+<img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+
+<br>
+
+# Databases 
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white">
+
+<br>
 
 
+# Frameworks & Libraries
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
+<img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+
+<br>
+
+# Languages
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+
+
+<br>
+
+# Github Stats
+
+![Antonia's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniamugisa&theme=defaultk&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniamugisa&layout=compact)
+
+#
+
+[![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
+
+#
+
+Connect with me on LinkedIn!
+
+https://www.linkedin.com/in/antoniamugisa/
