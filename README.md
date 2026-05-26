@@ -1,7 +1,7 @@
 # Hey, I'm Antonia! 
-I'm a soon-to-be Computer Science graduate from Dalhousie University with experience as a Software Engineer Intern and Full-Stack Developer. Skilled in Java, Python, C/C++, Kotlin, JavaScript, TypeScript, SQL, with projects in React, Node.js, MongoDB and SprintBoot.
+I'm a Software Engineer at Compass Visas. Skilled in Java, Python, C/C++, Kotlin, JavaScript, TypeScript, SQL, with projects in React, Node.js, MongoDB and SprintBoot.
 
-I’m passionate about creating scalable systems and open to roles in Software Development, Backend Engineering, AI/ML, and Cloud Solutions — in Halifax, across Canada, or remote.
+I’m passionate about creating scalable systems and specialising in AI/ML, RAG applications and cloud development.
 
 <br>
 
